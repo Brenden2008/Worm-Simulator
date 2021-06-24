@@ -25,4 +25,4 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: aquiladev/ipfs-action@v0.1.6-1
         with:
-          path: ./
+          path: ./ipfs-deploy
