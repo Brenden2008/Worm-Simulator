@@ -1,4 +1,0 @@
-- name: Upload to IPFS
-  uses: aquiladev/ipfs-action@4a7f2c13d602b46cb5bc9e784d34ac04edfa7025
-  with:
-    path: './'
